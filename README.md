@@ -26,3 +26,5 @@ To run as server:
 py or python3 content_generator.py &
 
 Project is a desktop application using Tkinter
+
+*All csv files were from https://www.kaggle.com/openaddresses/openaddresses-us-west refer here for more csv files for testing. Files must be in same directory as person_generator.py*
